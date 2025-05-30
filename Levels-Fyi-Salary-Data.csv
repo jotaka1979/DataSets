@@ -58,7 +58,6 @@ Facebook,Software Engineer,251000,"New York, NY",3,0,Male,Master's Degree
 VMware,Software Engineer,182000,"Palo Alto, CA",0,0,Female,Master's Degree
 Adobe,Software Engineer,455000,"Seattle, WA",7,7,Male,PhD
 LinkedIn,Software Engineer,236000,"Sunnyvale, CA",6,1,Male,Master's Degree
-Amazon,Software Engineer,149000,"Arlington, VA",0,0,Male,
 Amazon,Software Engineer,218000,"New York, NY",3,3,Male,Master's Degree
 Facebook,Software Engineer,430000,"Menlo Park, CA",15,2,Male,Master's Degree
 Cisco,Product Manager,177000,"San Jose, CA",4,0.5,Male,Master's Degree
@@ -196,7 +195,6 @@ Amazon,Software Engineer,211000,"Seattle, WA",8,6,Male,Master's Degree
 Microsoft,Software Engineer,280000,"Sunnyvale, CA",6,2,Male,PhD
 Google,Software Engineer,210000,"Sunnyvale, CA",4,1,Male,Master's Degree
 Intel,Solution Architect,271000,"Hillsboro, OR",10,1,Male,Master's Degree
-Amazon,Software Engineer,139000,"Seattle, WA",0,0,Male,
 Apple,Data Scientist,230000,"Cupertino, CA",10,0,Male,PhD
 Uber,Software Engineer,245000,"Palo Alto, CA",3,0,Male,Master's Degree
 Uber,Software Engineer,245000,"Palo Alto, CA",1,0,Male,Master's Degree
@@ -269,7 +267,6 @@ Facebook,Software Engineer,264000,"Menlo Park, CA",0,0,Female,PhD
 SAP,Software Engineer,152000,"Palo Alto, CA",2,2,Male,Master's Degree
 Amazon,Software Engineer,87000,"London, EN, United Kingdom",3,0,Male,Master's Degree
 Amazon,Product Manager,208000,"Seattle, WA",10,4,Male,Master's Degree
-Uber,Software Engineer,274000,"Seattle, WA",4,0,Male,
 Oracle,Software Engineer,220000,"Santa Clara, CA",4,0,Male,Master's Degree
 Google,Software Engineer,243000,"Los Angeles, CA",2,2,Male,PhD
 Microsoft,Software Engineer,205000,"Redmond, WA",4,0,Male,Master's Degree
@@ -624,7 +621,6 @@ Facebook,Software Engineering Manager,700000,"Menlo Park, CA",19,2,Male,PhD
 Google,Software Engineer,272000,"Mountain View, CA",0,0,Female,PhD
 Amazon,Software Engineer,277000,"Seattle, WA",7,3,Male,Master's Degree
 Amazon,Product Manager,620000,"Washington, DC",20,2,Male,Master's Degree
-Apple,Software Engineering Manager,600000,"Cupertino, CA",15,15,Male,
 Salesforce,Software Engineer,209000,"San Francisco, CA",3,1,Male,Master's Degree
 Facebook,Product Manager,1300000,"Menlo Park, CA",19,1,Female,Master's Degree
 Amazon,Software Engineer,240000,"Seattle, WA",3,3,Male,Master's Degree
@@ -1017,7 +1013,6 @@ Dell Technologies,Software Engineer,214000,"Santa Clara, CA",14,5,Male,Master's 
 Amazon,Software Engineering Manager,311000,"Seattle, WA",14,4,Male,Master's Degree
 Facebook,Software Engineer,205000,"Menlo Park, CA",1,1,Male,Master's Degree
 LinkedIn,Data Scientist,203000,"Mountain View, CA",8,4,Female,Master's Degree
-Amazon,Technical Program Manager,270000,"Seattle, WA",20,1,Male,
 Microsoft,Software Engineering Manager,370000,"Singapore, SG, Singapore",18,4,Male,Master's Degree
 Amazon,Product Manager,210000,"Palo Alto, CA",7,0,Male,Master's Degree
 Microsoft,Software Engineer,168000,"Redmond, WA",2,0,Female,Master's Degree
@@ -1108,7 +1103,6 @@ SAP,Software Engineer,158000,"Palo Alto, CA",4,4,Male,Master's Degree
 Intel,Software Engineer,124000,"Santa Clara, CA",2,1.5,Female,Master's Degree
 Microsoft,Software Engineer,28000,"Bangalore, KA, India",0,0,Female,Master's Degree
 Expedia,Product Manager,224000,"Seattle, WA",10,3,Male,Master's Degree
-Microsoft,Technical Program Manager,300000,"Redmond, WA",15,0,Male,
 Microsoft,Software Engineer,28000,"Bangalore, KA, India",0,0,Female,Master's Degree
 eBay,Software Engineer,257000,"San Jose, CA",16,4.5,Male,Master's Degree
 Amazon,Software Engineer,188000,"Seattle, WA",2,0,Male,Master's Degree
@@ -1396,7 +1390,6 @@ Facebook,Software Engineer,588000,"Seattle, WA",13,3,Male,Master's Degree
 Google,Hardware Engineer,207000,"Mountain View, CA",2,0,Male,Master's Degree
 Deloitte,Management Consultant,192000,"San Jose, CA",10,5,Female,Master's Degree
 Amazon,Software Engineer,220000,"Sunnyvale, CA",7,2,Male,Master's Degree
-Microsoft,Software Engineer,178000,"Bellevue, WA",2,0,Male,
 Amazon,Software Engineer,205000,"Seattle, WA",7,3,Male,Master's Degree
 Amazon,Software Engineer,140000,"Dublin, DN, Ireland",7,0,Male,Master's Degree
 Amazon,Software Engineer,320000,"San Francisco, CA",10,1,Male,PhD
@@ -1539,7 +1532,6 @@ Microsoft,Software Engineer,200000,"Bellevue, WA",9,4.2,Male,Master's Degree
 Amazon,Software Engineering Manager,325000,"Seattle, WA",18,3,Male,Master's Degree
 Facebook,Software Engineer,252000,"Seattle, WA",1,1,Male,PhD
 Amazon,Product Designer,272000,"Palo Alto, CA",10,4,Female,Master's Degree
-Microsoft,Product Manager,161000,"Seattle, WA",0,0,Male,
 Microsoft,Software Engineer,215000,"Redmond, WA",3,3,Male,Master's Degree
 Apple,Hardware Engineer,250000,"Cupertino, CA",10,5,Male,Master's Degree
 Amazon,Software Engineer,198000,"Seattle, WA",4,4,Female,Master's Degree
@@ -1558,7 +1550,6 @@ Bloomberg,Software Engineer,220000,"New York, NY",5,5,Male,Master's Degree
 Intel,Software Engineer,102000,"Folsom, CA",2,1,Male,Master's Degree
 Google,Software Engineer,193000,"Sunnyvale, CA",1,1,Male,Master's Degree
 Amazon,Product Manager,315000,"Seattle, WA",11,3,Male,Master's Degree
-Amazon,Software Engineer,166000,"Austin, TX",1,0,Female,
 Cisco,Software Engineer,102000,"Austin, TX",0,0,Male,Master's Degree
 Amazon,Product Manager,250000,"Los Angeles, CA",10,5,Female,Master's Degree
 Amazon,Product Manager,360000,"Seattle, WA",10,4,Female,Master's Degree
@@ -1623,7 +1614,6 @@ Microsoft,Software Engineer,150000,"Redmond, WA",4,2,Female,Master's Degree
 Amazon,Software Engineer,280000,"Seattle, WA",9,4,Male,Master's Degree
 Microsoft,Software Engineer,265000,"Seattle, WA",14,10,Male,Master's Degree
 Uber,Hardware Engineer,310000,"San Francisco, CA",9,2,Male,Master's Degree
-Amazon,Software Engineer,185000,"Seattle, WA",2,2,Male,
 Amazon,Software Engineer,212000,"Boston, MA",5,3,Male,Master's Degree
 Google,Product Manager,415000,"Mountain View, CA",13,0,Male,Master's Degree
 Apple,Hardware Engineer,167000,"San Francisco, CA",4,2,Male,Master's Degree
@@ -1643,7 +1633,6 @@ Apple,Solution Architect,210000,"Santa Clara, CA",10,4,Male,Master's Degree
 Google,Product Manager,320000,"Zurich, ZH, Switzerland",12,6,Male,Master's Degree
 Facebook,Technical Program Manager,389000,"San Francisco, CA",16,1,Male,Master's Degree
 Google,Software Engineer,234000,"New York, NY",7,2.5,Male,Master's Degree
-Google,Software Engineer,170000,"Sunnyvale, CA",0,0,Male,
 Amazon,Technical Program Manager,70000,"Hyderabad, TS, India",12,0,Male,Master's Degree
 Amazon,Software Engineer,167000,"Seattle, WA",2,1.5,Female,Master's Degree
 Microsoft,Product Manager,283000,"Bellevue, WA",11,10,Male,Master's Degree
@@ -2213,7 +2202,6 @@ eBay,Software Engineer,170000,"San Jose, CA",2,2,Male,Master's Degree
 Cisco,Hardware Engineer,145000,"San Jose, CA",5,2,Male,Master's Degree
 Facebook,Product Designer,302000,"New York, NY",8,4,Male,Master's Degree
 Google,Data Scientist,284000,"Mountain View, CA",11,1,Male,Master's Degree
-Oracle,Software Engineer,191000,"Seattle, WA",0,0,Female,
 Apple,Product Manager,270000,"Cupertino, CA",15,4,Female,PhD
 Uber,Software Engineer,579000,"Palo Alto, CA",15,4,Male,Master's Degree
 Wayfair,Software Engineering Manager,191000,"Boston, MA",8,3,Male,Master's Degree
@@ -3300,7 +3288,6 @@ Google,Software Engineer,404000,"Mountain View, CA",17,8,Male,Bachelor's Degree
 Deloitte,Software Engineer,115000,"Austin, TX",2,0,Female,Master's Degree
 Goldman Sachs,Software Engineer,100000,"New York, NY",2,0,Male,Some College
 Google,Software Engineer,248000,"Los Angeles, CA",2,2,Male,PhD
-Microsoft,Product Manager,177000,"Seattle, WA",1,1,Male,
 Salesforce,Software Engineer,27000,"Hyderabad, AP, India",0,0,Male,Bachelor's Degree
 SAP,Software Engineer,150000,"Palo Alto, CA",2,0,Male,Master's Degree
 Microsoft,Software Engineer,152000,"Redmond, WA",8,3,Female,Master's Degree
@@ -3870,7 +3857,6 @@ Accenture,Product Manager,160000,"Austin, TX",8,4,Male,Master's Degree
 Adobe,Data Scientist,210000,"San Francisco, CA",4,1,Female,Bachelor's Degree
 Accenture,Management Consultant,200000,"Atlanta, GA",9,9,Female,Master's Degree
 Microsoft,Marketing,200000,"Redmond, WA",12,1,Male,Master's Degree
-VMware,Software Engineer,152000,"Berlin, BE, Germany",11,5,Male,
 Microsoft,Software Engineer,171000,"Redmond, WA",0,0,Male,Bachelor's Degree
 Google,Sales,802000,"San Francisco, CA",20,10,Male,Bachelor's Degree
 Apple,Hardware Engineer,221000,"Cupertino, CA",4,4,Male,Master's Degree
@@ -4049,7 +4035,6 @@ Microsoft,Software Engineer,131000,"Vancouver, BC, Canada",0,0,Male,Master's Deg
 Microsoft,Software Engineer,177000,"Redmond, WA",0,0,Male,Bachelor's Degree
 Walmart Labs,Software Engineer,106000,"Dallas, TX",1,0,Male,Master's Degree
 IBM,Data Scientist,156000,"San Jose, CA",3,3,Male,Master's Degree
-Facebook,Software Engineer,233000,"Menlo Park, CA",1,1,Male,
 Microsoft,Software Engineer,247000,"Redmond, WA",7,7,Male,Master's Degree
 Amazon,Data Scientist,300000,"Seattle, WA",7,7,Male,Master's Degree
 PayPal,Software Engineer,208000,"San Jose, CA",9,0,Male,Bachelor's Degree
@@ -4196,7 +4181,6 @@ Microsoft,Software Engineer,340000,"Redmond, WA",15,13,Male,Master's Degree
 Uber,Software Engineer,197000,"San Francisco, CA",2,1,Male,Bachelor's Degree
 Amazon,Product Manager,333000,"Seattle, WA",14,4,Male,Bachelor's Degree
 eBay,Software Engineer,198000,"San Jose, CA",2,0,Male,Master's Degree
-Microsoft,Software Engineer,177000,"Bellevue, WA",0,0,Male,
 Netflix,Software Engineer,605000,"Los Angeles, CA",7,2,Male,Bachelor's Degree
 VMware,Software Engineer,207000,"Palo Alto, CA",4,4,Male,Master's Degree
 Accenture,Management Consultant,190000,"New York, NY",7,7,Male,Bachelor's Degree
@@ -5747,7 +5731,6 @@ Expedia,Product Manager,161000,"London, EN, United Kingdom",10,5,Female,Bachelor
 Netflix,Data Scientist,400000,"Los Gatos, CA",10,2,Female,Master's Degree
 Amazon,Business Analyst,128000,"Seattle, WA",5,1,Male,Master's Degree
 VMware,Software Engineer,134000,"Atlanta, GA",0,0,Female,Bachelor's Degree
-Amazon,Software Engineer,138000,"Herndon, VA",1,1,Male,
 IBM,Solution Architect,150000,"Toronto, ON, Canada",15,1,Male,Bachelor's Degree
 Walmart Labs,Data Scientist,188000,"Sunnyvale, CA",2,2,Female,Master's Degree
 Google,Software Engineer,200000,"New York, NY",10,4,Male,Bachelor's Degree
@@ -5923,7 +5906,6 @@ Amazon,Product Manager,76000,"Bangalore, KA, India",8,6,Male,Master's Degree
 Google,Management Consultant,151000,"San Francisco, CA",8,1,Female,Bachelor's Degree
 Facebook,Data Scientist,235000,"Menlo Park, CA",4,4,Male,Master's Degree
 Microsoft,Software Engineer,142000,"Redmond, WA",12,6,Male,Master's Degree
-Google,Software Engineer,170000,"Mountain View, CA",0,0,Male,
 Apple,Data Scientist,198000,"San Francisco, CA",2,1,Male,Master's Degree
 Microsoft,Software Engineer,162000,"Seattle, WA",1,1,Male,Bachelor's Degree
 Amazon,Software Engineer,216000,"Seattle, WA",6,6,Male,Bachelor's Degree
@@ -6194,7 +6176,6 @@ Google,Software Engineer,145000,"Munich, BY, Germany",0,0,Female,PhD
 Cisco,Software Engineering Manager,260000,"Raleigh, NC",24,20,Male,Bachelor's Degree
 Google,Software Engineer,227000,"Zurich, ZH, Switzerland",10,1,Male,PhD
 Google,Software Engineer,380000,"Sunnyvale, CA",25,1,Male,Master's Degree
-Oracle,Software Engineer,170000,"Seattle, WA",0,0,Female,
 Apple,Technical Program Manager,256000,"Cupertino, CA",14,0,Female,Bachelor's Degree
 Facebook,Software Engineer,183000,"Menlo Park, CA",0,0,Male,Master's Degree
 Amazon,Software Engineer,104000,"Seattle, WA",0,0,Female,Bachelor's Degree
@@ -6413,7 +6394,6 @@ Twitter,Software Engineer,249000,"Seattle, WA",2,0,Male,Bachelor's Degree
 Google,Software Engineer,87000,"Bangalore, KA, India",3,3,Male,Bachelor's Degree
 Oracle,Software Engineer,175000,"Redwood City, CA",0,0,Female,Bachelor's Degree
 Amazon,Product Manager,220000,"Seattle, WA",9,1,Male,Master's Degree
-Lyft,Software Engineer,350000,"San Francisco, CA",2,2,Male,
 Amazon,Software Engineer,175000,"Seattle, WA",0,0,Male,Bachelor's Degree
 Amazon,Software Engineer,188000,"Palo Alto, CA",0,0,Female,Bachelor's Degree
 Adobe,Software Engineer,70000,"Toronto, ON, Canada",3,3,Female,Master's Degree
@@ -6575,7 +6555,6 @@ Google,Product Designer,200000,"Singapore, SG, Singapore",8,1,Female,Bachelor's 
 Visa,Product Designer,138000,"Austin, TX",15,1,Male,Bachelor's Degree
 Facebook,Recruiter,236000,"Austin, TX",10,5,Male,Highschool
 Accenture,Management Consultant,100000,"New York, NY",0,0,Male,Bachelor's Degree
-Amazon,Software Engineering Manager,353000,"New York, NY",17,0,Male,
 Facebook,Software Engineer,378000,"Menlo Park, CA",4,1,Male,PhD
 Apple,Technical Program Manager,216000,"Cupertino, CA",17,0,Male,Bachelor's Degree
 Amazon,Software Engineer,292000,"Seattle, WA",10,4,Male,Bachelor's Degree
@@ -7173,7 +7152,6 @@ Amazon,Software Engineer,219000,"Seattle, WA",3,0,Male,Bachelor's Degree
 Google,Software Engineer,78000,"Bangalore, KA, India",7,0,Male,Bachelor's Degree
 Amazon,Human Resources,115000,"Austin, TX",30,0,Female,Some College
 Wayfair,Product Manager,138000,"Berlin, BE, Germany",11,1,Male,Bachelor's Degree
-Amazon,Solution Architect,218000,"Seattle, WA",10,0,Female,
 Dell Technologies,Software Engineer,250000,"Boston, MA",25,2,Female,Master's Degree
 Amazon,Software Engineer,259000,"Vancouver, BC, Canada",11,10,Male,Master's Degree
 Netflix,Software Engineer,525000,"Los Gatos, CA",8,5,Male,Master's Degree
@@ -7318,7 +7296,6 @@ Amazon,Software Engineer,161000,"Sunnyvale, CA",2,2,Female,Bachelor's Degree
 Amazon,Software Engineering Manager,311000,"Seattle, WA",11,7,Male,Master's Degree
 Uber,Software Engineer,265000,"San Francisco, CA",3,0,Male,Master's Degree
 Google,Software Engineer,332000,"Mountain View, CA",15,3,Male,Bachelor's Degree
-Amazon,Software Engineering Manager,164000,"Bangalore, KA, India",20,0,Male,
 Amazon,Software Engineering Manager,358000,"New York, NY",16,9,Female,Bachelor's Degree
 Uber,Software Engineer,216000,"San Francisco, CA",3,0,Male,Master's Degree
 Intuit,Software Engineer,310000,"San Diego, CA",17,3,Male,Master's Degree
@@ -8246,7 +8223,6 @@ Microsoft,Product Manager,331000,"Redmond, WA",12,8,Female,Master's Degree
 eBay,Software Engineer,280000,"San Jose, CA",9,5,Female,Master's Degree
 VMware,Software Engineer,92000,"Bangalore, KA, India",10,2,Male,Bachelor's Degree
 Capital One,Software Engineer,100000,"Plano, TX",0,0,Male,Bachelor's Degree
-Facebook,Software Engineer,168000,"Menlo Park, CA",0,0,Female,
 Facebook,Technical Program Manager,510000,"Menlo Park, CA",15,3,Male,Master's Degree
 Wayfair,Software Engineer,163000,"Boston, MA",4,2,Male,Master's Degree
 Facebook,Product Designer,205000,"Los Angeles, CA",8,1,Female,Bachelor's Degree
@@ -9223,7 +9199,6 @@ Twitter,Software Engineer,227000,"London, EN, United Kingdom",8,0,Male,Master's 
 Microsoft,Software Engineering Manager,446000,"Redmond, WA",16,15,Male,Bachelor's Degree
 Facebook,Software Engineer,418000,"Menlo Park, CA",9,0,Male,Master's Degree
 Microsoft,Software Engineer,112000,"Bangalore, KA, India",10,0,Male,Bachelor's Degree
-Capital One,Business Analyst,100000,"Washington, DC",1,1,Male,
 Google,Software Engineer,205000,"New York, NY",2,2,Female,Bachelor's Degree
 ServiceNow,Software Engineer,190000,"Santa Clara, CA",5,0,Male,Master's Degree
 Facebook,Software Engineer,550000,"New York, NY",6,2,Male,Bachelor's Degree
@@ -11915,7 +11890,6 @@ Accenture,Software Engineer,10000,"Hyderabad, TS, India",3,3,Male,Bachelor's Deg
 Google,Marketing,180000,"San Francisco, CA",10,5,Male,Master's Degree
 Amazon,Software Engineer,61000,"Bangalore, KA, India",10,2,Male,Bachelor's Degree
 PayPal,Software Engineer,71000,"Bangalore, KA, India",7,1,Male,Bachelor's Degree
-Amazon,Solution Architect,340000,"Seattle, WA",15,4,Male,
 Amazon,Software Engineer,505000,"Seattle, WA",8,8,Male,Bachelor's Degree
 Apple,Software Engineer,332000,"San Diego, CA",9,0,Male,Master's Degree
 Microsoft,Software Engineer,160000,"Sunnyvale, CA",6,5,Male,PhD
@@ -12838,7 +12812,6 @@ VMware,Software Engineering Manager,250000,"Bangalore, KA, India",22,4,Male,Mast
 JPMorgan Chase,Software Engineering Manager,67000,"Bangalore, KA, India",12,5,Male,Bachelor's Degree
 Microsoft,Software Engineer,243000,"Redmond, WA",12,1,Male,PhD
 JPMorgan Chase,Software Engineering Manager,67000,"Bangalore, KA, India",12,5,Male,Bachelor's Degree
-Microsoft,Software Engineer,160000,"Redmond, WA",7,0,Male,
 Qualcomm,Hardware Engineer,291000,"San Jose, CA",14,4,Male,Bachelor's Degree
 eBay,Software Engineer,158000,"Atlanta, GA",5,0,Male,Master's Degree
 Apple,Software Engineer,189000,"Austin, TX",6,0,Male,Bachelor's Degree
@@ -13106,7 +13079,6 @@ Twitter,Software Engineer,233000,"Atlanta, GA",4,0,Male,Master's Degree
 Amazon,Product Manager,350000,"San Francisco, CA",7,2,Female,Master's Degree
 Cisco,Software Engineer,89000,"Ottawa, ON, Canada",8,4,Male,Master's Degree
 Amazon,Software Engineer,256000,"Seattle, WA",4,4,Male,Bachelor's Degree
-Twitter,Product Manager,299000,"Los Angeles, CA",8,0,Female,
 Google,Software Engineer,181000,"Sunnyvale, CA",0,0,Male,Bachelor's Degree
 Amazon,Software Engineer,207000,"Dublin, DN, Ireland",7,3,Male,Master's Degree
 Salesforce,Technical Program Manager,255000,"Seattle, WA",8,4,Male,Master's Degree
@@ -13372,7 +13344,6 @@ Microsoft,Software Engineer,203000,"Redmond, WA",13,0,Male,Master's Degree
 Apple,Hardware Engineer,810000,"Cupertino, CA",20,10,Male,PhD
 Amazon,Software Engineer,231000,"Seattle, WA",12,9,Male,Master's Degree
 Google,Software Engineer,294000,"New York, NY",2,0,Female,Bachelor's Degree
-VMware,Software Engineer,508000,"San Francisco, CA",11,11,Male,
 Walmart Labs,Software Engineer,106000,"Bangalore, KA, India",16,1,Male,Bachelor's Degree
 Amazon,Software Engineer,250000,"Seattle, WA",4,3,Male,Bachelor's Degree
 Amazon,Product Manager,305000,"Palo Alto, CA",10,4,Male,Master's Degree
@@ -14275,7 +14246,6 @@ SAP,Product Manager,135000,"Bangalore, KA, India",23,6,Female,Master's Degree
 Amazon,Software Engineer,119000,"Berlin, BE, Germany",15,3,Male,Bachelor's Degree
 Netflix,Software Engineer,473000,"Los Gatos, CA",15,5,Male,Bachelor's Degree
 Google,Technical Program Manager,580000,"San Francisco, CA",15,1,Female,Master's Degree
-Microsoft,Software Engineer,154000,"Atlanta, GA",1,1,Female,
 Google,Product Designer,226000,"Mountain View, CA",12,0,Female,Bachelor's Degree
 Apple,Data Scientist,227000,"Cupertino, CA",8,0,Female,Master's Degree
 Wayfair,Software Engineering Manager,320000,"Boston, MA",14,2,Male,Master's Degree
